@@ -1,2 +1,2 @@
 # catalogo-de-video
-..........
+
